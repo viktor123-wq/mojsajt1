@@ -1,0 +1,102 @@
+.naslov {color: blue}
+.opis {color: blue}
+
+body {
+	background-color: blue ;
+	background-image: url("coronavirus_logo-2.jpg");
+
+}
+.desno{
+	background-color:white;
+	
+
+
+
+}
+.ocovidu1{
+	float: right;
+	padding-top: 10px;
+	padding-right: -10px;
+
+} 
+.ocovidu2{}
+.slika1{
+     vertical-align: baseline;
+
+}
+.socijal{
+
+
+}
+.uvod {background-color: white;
+	border-radius: 0px;
+      opacity: 0.80 ;
+      border: solid 2px white ;
+}
+.search-bar{
+	float:right; 
+	padding-top: 10px;
+	padding-right: 10px; 
+
+
+}
+.naslov {font-size: 40px;
+	      font-family: Arial black;
+	      padding-left: 500px;
+	      padding-top :5px;
+	      text-shadow: 2px 3px gray;
+	      letter-spacing: : 3px;
+
+
+}
+.idegas {float: right;
+	     border-radius: 0.15px;
+	     padding-top: 0px; 
+	     padding-bottom: 0px;
+
+}
+.opis {padding-left:15px;
+	padding-top:15px;
+
+}
+.topnav{
+     background-color: white;
+	border-radius: 0px;
+      opacity: 0.80 ;
+      border: solid 5px blue or white ;
+}
+.slika{
+	vertical-align:  baseline;
+	border-radius:500px 
+}
+.topnav a{
+	flout: left;
+	color: black;
+	text-align: center;
+	padding: 14px 16px;
+    text-decoration: none;
+    font-size: 23px;
+}
+.topnav a:hover{
+	background-color: black;
+	color: white;
+
+}
+.topnav a:active{
+	background-color: white;
+	color: black;
+
+}
+.padajucimeni {color: blue;
+	           font-size: all;
+
+}
+.ocovidu {
+	background-color: white
+	font-size
+
+}
+.instagram{
+float: right;
+
+}

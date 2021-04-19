@@ -1,0 +1,26 @@
+.naslov {color: black}
+.opis {color: white}
+
+body {
+	background-color: ;
+	background-image: url("download.jpg");
+
+}
+.uvod {background-color: #41c7f4;
+      opacity: 0.90 ;
+}
+.naslov {font-size: 40px;
+	      font-family: arial;
+	      padding-left: 15px;
+	      padding-top :15px;
+	      text-shadow: 2px 3px gray;
+	      letter-spacing: : 3px;
+
+
+}
+.idegas {float: right;
+	     border-radius: 0px }
+.opis {padding-left:15px;
+	padding-top:15px;
+
+}
